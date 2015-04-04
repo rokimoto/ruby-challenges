@@ -4,4 +4,4 @@ ruby:
 
 before_script: 'gem install rspec'
 
-script: "rspec quiz_spec.rb"
+script: "rspec spec"

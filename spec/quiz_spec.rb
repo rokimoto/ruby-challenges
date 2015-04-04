@@ -1,4 +1,4 @@
-require_relative "quiz"
+require_relative "../quiz"
 
 describe "divosor" do
   it "takes an integer and returns an array of its divosors" do
