@@ -1,4 +1,4 @@
-def fib
+def divisor
 
 end
 
