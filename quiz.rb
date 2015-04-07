@@ -43,10 +43,10 @@ def fib (int)
     prior = 1
     next_num = 1
     if int == 1
-        my_array << 1
+        my_array << prior
     else
-        my_array << 1
-        my_array << 1
+        my_array << prior
+        my_array << next_num
         for i in 1..int
             next_num = prior + next_num
             if next_num > int
